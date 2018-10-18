@@ -1,0 +1,30 @@
+{
+  "name": "meanstackblog",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isharadikkumbura/MEANStackBlog.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Ishara Dikkumburage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isharadikkumbura/MEANStackBlog/issues"
+  },
+  "homepage": "https://github.com/isharadikkumbura/MEANStackBlog#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.4"
+  }
+}
